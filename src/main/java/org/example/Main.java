@@ -8,6 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         System.out.printf("This is my second commit message ");
+        System.out.printf("This is my third commit message ");
        // System.out.printf("This is my third statement Build Success");
 
         int i;
