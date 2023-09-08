@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("Hello and welcome! This is my first project");
         System.out.printf("Hello and welcome . This is my successfull project");
+        System.out.printf("Hello and welcome . This is my successfull project");
 
 
         // System.out.printf("This is my third statement Build Success");
