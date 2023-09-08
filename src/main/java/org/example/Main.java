@@ -7,16 +7,10 @@ public class Main {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
-        System.out.printf("This is my second commit message ");
-        System.out.printf("This is my third commit message ");
-        System.out.printf("This is my fourth commit message ");
+
 
         // System.out.printf("This is my third statement Build Success");
 
-        int i;
-        for (i=0; i<5; i++){
-            System.out.printf("This is my third statement Build Success");
-        }
 
 
 
